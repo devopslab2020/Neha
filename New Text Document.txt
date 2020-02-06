@@ -1,2 +1,20 @@
 Hello World!
 I am Neha Gawde
+I have created New branch by git checkout -b Branch-Name command.
+git add .
+git commit -m ""
+git status
+git remote add origin https://
+
+
+for chnging origin
+git remote set-url origin's url
+
+for pushing content in repository
+git push -u origin master
+
+for checking existing origin
+git remote -v
+
+for removing origin 
+git rm origin
